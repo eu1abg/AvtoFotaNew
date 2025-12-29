@@ -99,21 +99,13 @@ AvtoFotaNew/
 ## 📌 API библиотеки
 ---
 ### 🔹 Конструктор
-```cpp
-AvtoFotaNew(const char* version);
-```
 
-Создаёт объект OTA.
-```cpp
-version
- ``` — текущая версия прошивки
+`AvtoFotaNew(const char* version); ` - Создаёт объект OTA.
+
+`version ` — текущая версия прошивки
 
 ### 🔹 setManifestURL()
-```cpp
-void setManifestURL(const char* url);
-```
-
-Устанавливает URL JSON-манифеста.
+`void setManifestURL(const char* url);` - Устанавливает URL JSON-манифеста.
 
 ### 🔹 setDebug()
 ```cpp
