@@ -1,4 +1,23 @@
 # AvtoFotaNew
+![ESP32](https://img.shields.io/badge/ESP32-supported-blue.svg)
+![ESP8266](https://img.shields.io/badge/ESP8266-supported-blue.svg)
+![Arduino](https://img.shields.io/badge/Arduino-IDE-00979D.svg)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-supported-orange.svg)
+
+![OTA](https://img.shields.io/badge/OTA-HTTP%2FHTTPS-success.svg)
+![Progress](https://img.shields.io/badge/OTA-Progress%200--100%25-brightgreen.svg)
+![Watchdog](https://img.shields.io/badge/Watchdog-safe-green.svg)
+
+![MQTT](https://img.shields.io/badge/MQTT-ready-green.svg)
+![Callback](https://img.shields.io/badge/Callback-supported-blueviolet.svg)
+
+![AvtoFotaNew](https://img.shields.io/badge/AvtoFotaNew-v1.0.0-yellow.svg)
+![License](https://img.shields.io/badge/License-MIT-orange.svg)
+
+
+![GitHub release](https://img.shields.io/github/v/release/eu1abg/AvtoFotaNew)
+![GitHub stars](https://img.shields.io/github/stars/eu1abg/AvtoFotaNew?style=social)
+![GitHub issues](https://img.shields.io/github/issues/eu1abg/AvtoFotaNew)
 
 **Лёгкая и надёжная OTA-библиотека для ESP32 и ESP8266**  
 с поддержкой **блокирующего и неблокирующего обновления**,  
